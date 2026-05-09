@@ -1,2 +1,37 @@
-# qr-updates
-QR Generator yangilanishlari
+{
+  "latestVersion": "1.2.0",
+  "releaseDate": "2026-05-09",
+  "apkUrl": "https://github.com/asrorqulovsunatullo-cmyk/qr-updates/releases/download/v1.2.0/app-debug.apk",
+  "updates": [
+    {
+      "version": "1.2.0",
+      "date": "2026-05-09",
+      "type": "yangilanish",
+      "changes": [
+        "⚡ Joystick menyu qo'shildi — 8 yo'nalish",
+        "🎨 Ekran yuqoridan joy ajratildi",
+        "✨ Tez kirish uchun slot tizimi"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-05-08",
+      "type": "yangilanish",
+      "changes": [
+        "✨ Yangilanish tizimi qo'shildi",
+        "🎨 Dizayn yaxshilandi",
+        "🐛 Kichik xatolar tuzatildi"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-05-01",
+      "type": "yangilanish",
+      "changes": [
+        "✨ Ilova yaratildi",
+        "⚡ QR kod generatsiya",
+        "📌 Tarix va pin tizimi"
+      ]
+    }
+  ]
+}
