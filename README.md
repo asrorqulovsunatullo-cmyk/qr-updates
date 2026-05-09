@@ -4,7 +4,7 @@
   "apkUrl": "https://github.com/asrorqulovsunatullo-cmyk/qr-updates/releases/download/v1.2.0/app-debug.apk",
   "updates": [
     {
-      "version": "1.2.0",
+      "version": "1.3.0",
       "date": "2026-05-09",
       "type": "yangilanish",
       "changes": [
