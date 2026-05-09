@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.2.0",
+  "latestVersion": "1.3.0",
   "releaseDate": "2026-05-09",
   "apkUrl": "https://github.com/asrorqulovsunatullo-cmyk/qr-updates/releases/download/v1.2.0/app-debug.apk",
   "updates": [
