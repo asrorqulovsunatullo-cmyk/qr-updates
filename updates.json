@@ -1,6 +1,8 @@
 {
   "version": "5.1.0",
-  "url": "https://github.com/asrorqulovsunatullo-cmyk/qr-updates/releases/5.1.0/new.version.apk",
-  "releasesUrl": "https://github.com/asrorqulovsunatullo-cmyk/REPO/releases/tag/5.1.0",
-  "changelog": [{ "type": "fix", "text": "Slash va tarix tuzatildi" }]
+  "url": "https://github.com/asrorqulovsunatullo-cmyk/qr-generator/releases/download/v5.1.0/app-debug.apk",
+  "releasesUrl": "https://github.com/asrorqulovsunatullo-cmyk/qr-generator/releases/tag/v5.1.0",
+  "changelog": [
+    { "type": "fix", "text": "Slash va tarix tuzatildi" }
+  ]
 }
