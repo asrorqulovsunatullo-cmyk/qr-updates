@@ -1,6 +1,6 @@
 {
   "version": "5.1.0",
-  "url": "https://github.com/asrorqulovsunatullo-cmyk/qr-generator/releases/download/5.1.0/app-debug.apk",
+  "url": "https://github.com/asrorqulovsunatullo-cmyk/qr-updates/releases/download/5.1.0/app-debug.apk",
   "releasesUrl": "https://github.com/asrorqulovsunatullo-cmyk/qr-updates/releases/tag/5.1.0",
   "changelog": [
     { "type": "fix", "text": "Slash va tarix tuzatildi" }
